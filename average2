@@ -1,0 +1,5 @@
+void main(){
+int n = 25;
+int m = 75;
+print((n+m)/2);
+}
